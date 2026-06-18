@@ -1,0 +1,8 @@
+pandas
+numpy
+tiktoken
+transformers
+tokenizers
+sentencepiece
+protobuf
+tqdm
